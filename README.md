@@ -1,2 +1,1 @@
-# Python_Projects
-Compilation of Python projects 
+ Analyzing US Gun ownership data.
