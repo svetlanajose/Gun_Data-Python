@@ -12,10 +12,12 @@ isn’t otherwise ineligible to make a
 purchase. The data has been
 supplemented with state level data
 from census.gov.
+
 ● The NICS data is found in one
 sheet of an .xlsx file. It contains
 the number of firearm checks by
 month, state, and type.
+
 ● The U.S. census data is found
 in a .csv file. It contains several
 variables at the state level. Most
